@@ -1,0 +1,14 @@
+.popup{
+    margin:0;
+    padding:0;
+     box-sizing:border-box;
+    font-family:sans-seri;
+}
+main{
+    padding:32px;
+    display:flex;
+    flex-direction:colum;
+    align-items:center;
+justify-content:center;min-height:100vh;
+
+}
